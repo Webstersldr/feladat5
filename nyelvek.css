@@ -66,5 +66,24 @@ li
 	padding: 3px;
 	margin: 3px;
 	font-style: italic;
+	list-style-image: url('list.png');
+}
+
+
+body{
+	color: #00008B;
+	background-color: #ffd700;
+}
+
+h1 h2{
+	text-transform: uppercase;
+	color: red;
+}
+
+#f_vonal
+{
+	width: 800px;
+	block-size: 6px;
+	background-color: green;
 }
 
